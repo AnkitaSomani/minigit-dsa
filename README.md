@@ -24,6 +24,15 @@ MiniGit lets you track file versions, stage changes, commit snapshots, view hist
 
 ---
 
-## Sample Usage
+Example flow:
+
+```bash
+> Add File → main.cpp
+> Commit → "Initial commit"
+> Add File → utils.cpp
+> Commit → "Added utility file"
+> Log History
+> Checkout → commit_1
+> Show Current Files
 
 
